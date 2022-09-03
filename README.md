@@ -1,6 +1,6 @@
 # SQL BETWEEN & INTERVAL
 #### PHP - SQL | Between &amp; Interval İfadelerinin Kullanımı
-##### Veritabanındaki tabloya son x girilen verileri filtreler. 
+##### Tabloda son x zaman dilimi aralığında girilen verileri filtreler. 
 ##### Örnek olarak son 7 ve son 30 günü gösterdim
 
 
